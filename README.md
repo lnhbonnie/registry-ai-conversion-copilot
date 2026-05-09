@@ -25,6 +25,6 @@
 
 `React` `Claude API`
 
-![Registry AI Conversion Copilot](./assets/registry-ai-conversion-copilot.png)
+![Registry AI Conversion Copilot](./registry-ai-conversion-copilot.png)
 
 *Independent portfolio concept. Not affiliated with or endorsed by Babylist.* 
