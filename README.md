@@ -8,7 +8,6 @@
 
 **The solution:** An AI copilot that asks a few situational questions ("Twins? Budget? Must-have features?") and instantly recommends the best 3 products – filtered for fit AND optimized for margin.
 
----
 
 **Top 4 GTM metrics this improves:**
 - Registry completion rate ↑
@@ -16,7 +15,6 @@
 - Time to purchase ↓
 - Margin per registry ↑
 
----
 
 **What I designed:**
 - Conversation flow: awareness → comparison → purchase (GTM funnel mapped to chat)
