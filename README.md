@@ -17,8 +17,8 @@
 
 
 **Key Design Decisions + Trade‑offs:**
-- Conversation flow: awareness → comparison → purchase (GTM funnel mapped to chat)
-- Dual optimization: user fit + margin priority
+- Conversation flow: maps awareness → comparison → purchase (GTM funnel to chat)
+- Dual optimization: prioritizes user fit first, product margin second
 - Registry health score (creates urgency to complete)
 - Gap detection (surfaces missed categories for upsell)
 - 
