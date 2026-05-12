@@ -23,7 +23,7 @@
 | Decision | Trade-off |
 |----------|-----------|
 | **Conversation flow:** personalized chat guidance over search and filter | Consultative sales / Open discovery |
-| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | User trust / Profit margin |
+| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | User trust / Margin optimization |
 | **Completion score:** creates urgency to complete | Completion progress framing / UI simplicity and speed |
 | **Gap detection:** surfaces missed categories for upsell | Proactive intervention / Self-directed experience |
 | **Brand fidelity:** designs for native integration and brand consistency | Seamless user adoption / Jarring bolt-on feel | 
