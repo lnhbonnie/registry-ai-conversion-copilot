@@ -15,7 +15,7 @@
 - Time to purchase ↓
 - Margin per registry ↑
 
-</p>
+<p></p>
 
 **Key Design Decisions + Trade‑offs:**
 
