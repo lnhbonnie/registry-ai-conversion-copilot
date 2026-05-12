@@ -29,15 +29,6 @@
 | **Brand fidelity:** designs for native integration and brand consistency | Seamless user adoption / Jarring bolt-on feel | 
 
 
-
-
-**Skills Demonstrated:**
-- GTM strategy: AI as conversion and margin engine
-- Prompt design for commercial outcomes
-- Product thinking: user decision friction mapped to revenue levers
-- End-to-end prototype (React + Claude API)
-
-
 **Skills Demonstrated:**
 - GTM strategy: AI as conversion and margin engine
 - Prompt architecture: designed for commercial outcomes
