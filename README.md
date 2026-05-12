@@ -17,19 +17,16 @@
 
 
 **Key Design Decisions + Trade‑offs:**
-- Conversation flow: maps awareness → comparison → purchase (GTM funnel to chat)
-- Dual optimization: prioritizes user fit first, product margin second
-- Registry health score (creates urgency to complete)
-- Gap detection (surfaces missed categories for upsell)
 
 
 | Decision | Trade-off |
 |----------|-----------|
-| **Conversation flow:** maps the buyer journey (awareness → comparison → purchase) into a conversational interface | guided prompts: faster conversion; open input: more edge case coverage |
-| **Dual optimization:** prioritizes user fit first, product margin second | fit-first: builds trust and repeat behavior; margin-first: higher revenue per session |
-| **Registry health score:** creates urgency to complete | progress framing: drives completion; deficit framing: risks overwhelm |
-| **Gap detection:** surfaces missed categories for upsell | post-recommendation: preserves trust; earlier trigger: captures more upsell |
-| **Brand fidelity:** mirrors Babylist's tone, visuals, and trust signals natively | native integration: drives adoption; distinct UI: higher feature attributability |
+| **Conversation flow:** personalized chat-based guidance over search and filter | faster path to recommendation / constrains open discovery |
+| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | user trust / higher potential revenue |
+| **Completion score:** creates urgency to complete | completion progress framing / Simpler  UI and Speed |
+| **Gap detection:** surfaces missed categories for upsell | trust preservation / early upsell revenue |
+| **Brand fidelity:** designs for native integration and brand consistency | platform adoption / feature attributability | 
+
 
 
 **Skills Demonstrated:**
