@@ -22,7 +22,6 @@
 - Registry health score (creates urgency to complete)
 - Gap detection (surfaces missed categories for upsell)
 
-  &nbsp;
 
 | Decision | Trade-off |
 |----------|-----------|
@@ -32,7 +31,6 @@
 | **Gap detection:** surfaces missed categories for upsell | post-recommendation: preserves trust; earlier trigger: captures more upsell |
 | **Brand fidelity:** mirrors Babylist's tone, visuals, and trust signals natively | native integration: drives adoption; distinct UI: higher feature attributability |
 
-&nbsp;
 
 **Skills Demonstrated:**
 - GTM strategy: AI as conversion and margin engine
@@ -40,7 +38,6 @@
 - Product thinking: user decision friction mapped to revenue levers
 - End-to-end prototype (React + Claude API)
 
-  &nbsp;
 
 **Skills demonstrated:**
 - GTM strategy: AI as conversion and margin engine
