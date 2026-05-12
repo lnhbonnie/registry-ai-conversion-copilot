@@ -9,7 +9,7 @@
 **The Solution:** An AI copilot that asks a few situational questions ("Twins? Budget? Must-have features?") and instantly recommends the best 3 products – filtered for fit AND optimized for margin.
 
 
-**Top 4 GTM Metrics this Improves:**
+**Top 4 GTM Metrics Designed to Improves:**
 - Registry completion rate ↑
 - Items per registry ↑
 - Time to purchase ↓
