@@ -21,20 +21,11 @@
 
 | Decision | Trade-off |
 |----------|-----------|
-| **Conversation flow:** personalized chat guidance over search and filter | Consultative Sales / Open Discovery |
-| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | User Trust / Profit Margin |
-| **Completion score:** creates urgency to complete | Completion Progress Framing / UI simplicity and Speed |
-| **Gap detection:** surfaces missed categories for upsell | Proactive Intervention / Self-directed Experience  |
-| **Brand fidelity:** designs for native integration and brand consistency | Seamless User Adoption / Jarring Bolt-on Feel | 
-
-
-| Decision | Trade-off |
-|----------|-----------|
-| **Conversation flow:** personalized chat guidance over search and filter | consultative sales / open discovery |
-| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | user trust / profit margin |
-| **Completion score:** creates urgency to complete | completion progress framing / UI simplicity and speed |
-| **Gap detection:** surfaces missed categories for upsell | proactive intervention / self-directed experience  |
-| **Brand fidelity:** designs for native integration and brand consistency | seamless user adoption / jarring bolt-on feel | 
+| **Conversation flow:** personalized chat guidance over search and filter | Consultative sales / Open discovery |
+| **Dual optimization:** prioritizes user fit 1st, product margin 2nd | User trust / Profit margin |
+| **Completion score:** creates urgency to complete | Completion progress framing / UI simplicity and speed |
+| **Gap detection:** surfaces missed categories for upsell | Proactive intervention / Self-directed experience |
+| **Brand fidelity:** designs for native integration and brand consistency | Seamless user adoption / Jarring bolt-on feel | 
 
 
 
