@@ -41,8 +41,9 @@
 **Skills Demonstrated:**
 - GTM strategy: AI as conversion and margin engine
 - Prompt architecture: designed for commercial outcomes
-- Product thinking: maps user decision friction to revenue levers
+- Product thinking: mapped user decision friction to revenue levers
 - Brand fluency: tone, trust signals, and visual system built native to platform
+- Rapid prototyping: vibe-coded AI copilot workflow from concept to interface
 
 
 
