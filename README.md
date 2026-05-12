@@ -1,9 +1,9 @@
 # Registry AI Copilot: Conversion Architecture
 
-**The Problem:** Users start a registry, get stuck comparing products, then leave. Incomplete registry = lost revenue.
+**The Problem:** Users start a registry, get stuck comparing products, then leave. Incomplete registry = lost revenue. 
 
 
-**Why They Get Stuck:** Too many similar yet different products. No guidance on what's right for *their* situation.
+**Why They Get Stuck:** Too many similar yet different products. No guidance on what's right for *their* situation. 
 
 
 **The Solution:** An AI copilot that asks a few situational questions ("Twins? Budget? Must-have features?") and instantly recommends the best 3 products – filtered for fit AND optimized for margin.
