@@ -21,16 +21,35 @@
 - Dual optimization: prioritizes user fit first, product margin second
 - Registry health score (creates urgency to complete)
 - Gap detection (surfaces missed categories for upsell)
-- 
 
+  &nbsp;
 
+| Decision | Trade-off |
+|----------|-----------|
+| **Conversation flow:** maps the buyer journey (awareness → comparison → purchase) into a conversational interface | guided prompts: faster conversion; open input: more edge case coverage |
+| **Dual optimization:** prioritizes user fit first, product margin second | fit-first: builds trust and repeat behavior; margin-first: higher revenue per session |
+| **Registry health score:** creates urgency to complete | progress framing: drives completion; deficit framing: risks overwhelm |
+| **Gap detection:** surfaces missed categories for upsell | post-recommendation: preserves trust; earlier trigger: captures more upsell |
+| **Brand fidelity:** mirrors Babylist's tone, visuals, and trust signals natively | native integration: drives adoption; distinct UI: higher feature attributability |
 
+&nbsp;
 
 **Skills Demonstrated:**
 - GTM strategy: AI as conversion and margin engine
 - Prompt design for commercial outcomes
 - Product thinking: user decision friction mapped to revenue levers
 - End-to-end prototype (React + Claude API)
+
+  &nbsp;
+
+**Skills demonstrated:**
+- GTM strategy: AI as conversion and margin engine
+- Prompt architecture: designed for commercial outcomes
+- Product thinking: maps user decision friction to revenue levers
+- Brand fluency: tone, trust signals, and visual system built native to platform
+
+
+
 
 **Built With** `React` `Claude API`
 
