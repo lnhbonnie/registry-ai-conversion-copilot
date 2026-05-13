@@ -8,7 +8,7 @@
 
 <br>
 
-## Top 4 GTM Metrics Designed to Improves:
+### Top 4 GTM Metrics Designed to Improves:
 
 - Registry completion rate ↑
 - Items per registry ↑
@@ -17,7 +17,7 @@
 
 <br>
 
-## Key Design Decisions + Trade‑offs:
+### Key Design Decisions + Trade‑offs:
 
 | Decision | Trade-off |
 |----------|-----------|
@@ -29,7 +29,7 @@
 
  <br>
 
-## Skills Demonstrated:
+### Skills Demonstrated:
 
 - **GTM strategy:** AI as conversion and margin engine
 - **Prompt architecture:** designed for commercial outcomes
@@ -39,7 +39,7 @@
 
 <br>
 
-## Built With  `React` `Claude API`
+### Built With: `React` `Claude API`
 
 ![Registry AI Conversion Copilot](./assets/registry-ai-conversion-copilot.png)
 
