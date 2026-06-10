@@ -1,4 +1,4 @@
-# Registry AI Copilot: Conversion Architecture
+# Gift Registry AI Copilot: Conversion Architecture
 
 **The Problem:** Users start a registry, get stuck comparing products, then leave. Incomplete registry = lost revenue.
 
